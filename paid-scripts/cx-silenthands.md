@@ -2,11 +2,11 @@
 icon: shield-quartered
 ---
 
-# DS-SilentHands
+# CX-SilentHands
 
-## DS-SilentHands
+## CX-SilentHands
 
-**DS-SilentHands** is a FiveM script that makes players incapacitated, restricts their controls, and displays a countdown timer via the NUI interface.\
+C&#x58;**-SilentHands** is a FiveM script that makes players incapacitated, restricts their controls, and displays a countdown timer via the NUI interface.\
 All configuration is handled through the `config.lua` file. Each option is explained in detail below.
 
 ***

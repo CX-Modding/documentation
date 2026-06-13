@@ -2,9 +2,9 @@
 icon: car
 ---
 
-# DS-TÜV
+# CX-TÜV
 
-## DS-TÜV Script
+## CX-TÜV Script
 
 ***
 

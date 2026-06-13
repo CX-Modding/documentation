@@ -2,11 +2,11 @@
 icon: toolbox
 ---
 
-# DS-Repairkit
+# CX-Repairkit
 
-## DS-RepairKit – Configuration & Guide
+## CX-RepairKit – Configuration & Guide
 
-This page explains how to configure and use **DS-RepairKit** on your server.
+This page explains how to configure and use C&#x58;**-RepairKit** on your server.
 
 ***
 

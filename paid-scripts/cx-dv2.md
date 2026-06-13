@@ -2,9 +2,9 @@
 icon: car-side
 ---
 
-# DS-DV2
+# CX-DV2
 
-## DS-DV2 Script Configuration
+## CX-DV2 Script Configuration
 
 This guide explains all configuration options for the vehicle script using **ESX**. You can adjust settings for debugging, vehicle behavior, commands, notifications, and localization.
 

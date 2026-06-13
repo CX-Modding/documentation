@@ -14,6 +14,10 @@ layout:
     visible: true
   metadata:
     visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Discord Roles
@@ -22,7 +26,7 @@ layout:
 
 To receive support and notifications whenever an update for one of your scripts is released, we recommend claiming your role on our Discord server.
 
-Join the [**DS-MODDING**](https://discord.gg/U5gegSrQy6) **Discord Server** to get started.\
+Join the [**CX-MODDING**](https://discord.gg/U5gegSrQy6) **Discord Server** to get started.\
 You can request your **Customer Role** in the **#bot-commands** channel on our Discord.
 
 ***

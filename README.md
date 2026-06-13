@@ -14,19 +14,22 @@ layout:
     visible: true
   metadata:
     visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Welcome
 
-**Welcome to the DS-MODDING Documentation Page!**\
+**Welcome to the** C&#x58;**-MODDING Documentation Page!**\
 Here you will find all the essential information to set up, customize, and use our scripts, MLOs, and other purchasable products successfully.
 
 We aim to make your onboarding as easy as possible — that’s why you’ll find installation guides, explanations of key features, and useful tips & tricks right here.
 
 If you still have questions or need assistance, our Discord support team is always available to help you.
 
-Enjoy exploring and using our products!\
-
+Enjoy exploring and using our products!<br>
 
 
 

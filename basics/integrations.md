@@ -14,11 +14,15 @@ layout:
     visible: true
   metadata:
     visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
-# DS-Registrations
+# CX-Registrations
 
-## DS-Registration
+## CX-Registration
 
 This script enables vehicle registration through any selected job (e.g. Police, Mechanic, or Road Rescue).\
 To ensure everything works correctly, you must configure the `config.lua` file.\

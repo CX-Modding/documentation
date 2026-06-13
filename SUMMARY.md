@@ -9,13 +9,13 @@
 
 ## Paid Scripts
 
-* [DS-Registrations](basics/integrations.md)
-* [DS-TÜV](paid-scripts/ds-tuv.md)
-* [DS-SilentHands](paid-scripts/ds-silenthands.md)
-* [DS-Snowchains](paid-scripts/ds-snowchains.md)
-* [DS-DV2](paid-scripts/ds-dv2.md)
-* [DS-Towsystem](paid-scripts/ds-towsystem.md)
+* [CX-Registrations](basics/integrations.md)
+* [CX-TÜV](paid-scripts/cx-tuv.md)
+* [CX-SilentHands](paid-scripts/cx-silenthands.md)
+* [CX-Snowchains](paid-scripts/cx-snowchains.md)
+* [CX-DV2](paid-scripts/cx-dv2.md)
+* [CX-Towsystem](paid-scripts/cx-towsystem.md)
 
 ## Free Scripts
 
-* [DS-Repairkit](free-scripts/ds-repairkit.md)
+* [CX-Repairkit](free-scripts/cx-repairkit.md)
