@@ -16,6 +16,7 @@
 * [CX-DV2](paid-scripts/cx-dv2.md)
 * [CX-Towsystem](paid-scripts/cx-towsystem.md)
 * [CX-DiscordRPC](paid-scripts/cx-discordrpc.md)
+* [CX-VehicleKeys](paid-scripts/cx-vehiclekeys.md)
 
 ## Free Scripts
 
